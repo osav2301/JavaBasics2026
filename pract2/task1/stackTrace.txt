@@ -1,0 +1,10 @@
+Start
+Method1
+Method2
+Method3
+Exception in thread "main" java.lang.NullPointerException: Cannot invoke "String.length()" because "<parameter1>" is null
+	at Main.method4(Main.java:19)
+	at Main.method3(Main.java:15)
+	at Main.method2(Main.java:10)
+	at Main.method1(Main.java:5)
+	at Main.main(Main.java:25)
